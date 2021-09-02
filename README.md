@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elliskjohnson, a CS student at UNLV!
 - 👀 I’m interested in machine learning, data visualization, psychology, and making music!
-- 🌱 I’m currently learning javascript for fun and Java Spring Boot for my internship this summer!
+- 🌱 I’m currently working on building something with Spotify's API
 - 📫 How to reach me: https://www.linkedin.com/in/elliskjohnson/
 
 <!---
