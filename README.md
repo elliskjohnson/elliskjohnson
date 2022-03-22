@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @elliskjohnson, a CS student at UNLV!
+- 👋 Hi, I’m @elliskjohnson, SDE at AWS and former CS student at UNLV!
 - 👀 I’m interested in machine learning, data visualization, psychology, and making music!
-- 🌱 I’m currently working on building something with Spotify's API
+- 🌱 I’m currently interested in flutter and diving deep on AWS Amplify.
 - 📫 How to reach me: https://www.linkedin.com/in/elliskjohnson/
 
 <!---
